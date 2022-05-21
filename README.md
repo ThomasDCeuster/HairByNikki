@@ -1,2 +1,5 @@
 # HairbyNikki
-Website for hairsalon Hair by Nikki  Made by Thomas De Ceuster  1 ITF 02  TM-ITfactory Geel
+Website for hairsalon Hair by Nikki<br/>
+Made by Thomas De Ceuster<br/>
+1 ITF 02<br/>
+TM-ITfactory Geel
